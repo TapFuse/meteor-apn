@@ -1,1 +1,1 @@
-Wrapper for apn node package
+Package is no longer maintaned.
